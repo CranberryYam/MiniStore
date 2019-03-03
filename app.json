@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/pills/pills",
+    "pages/me/me"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EC7A89",
+    "navigationBarTitleText": "中药丸大全",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "selectedColor": "#EC7A89",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "images/tabbar/home_un.png",
+        "selectedIconPath": "images/tabbar/home.png"
+      },
+      {
+        "pagePath": "pages/pills/pills",
+        "text": "药元",
+        "iconPath": "images/tabbar/pills_un.png",
+        "selectedIconPath": "images/tabbar/pills.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "images/tabbar/me_un.png",
+        "selectedIconPath": "images/tabbar/me.png"
+      }
+    ]
+  }
+}

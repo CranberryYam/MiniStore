@@ -1,0 +1,7 @@
+<i-cell-group>
+
+    <i-cell wx:for="{{balls}}" title="{{item.title}}" 
+    label="{{item.label}}">
+    </i-cell>
+ 
+</i-cell-group>

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "i-cell": "../../components/iview/cell/index",
+    "i-cell-group": "../../components/iview/cell-group/index"
+  }
+}
